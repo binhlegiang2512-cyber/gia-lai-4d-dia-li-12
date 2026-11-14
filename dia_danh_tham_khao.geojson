@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pleiku",
+        "kind": "Điểm tham khảo địa danh, KHÔNG phải tọa độ mốc hành chính"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.0,
+          13.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Quy Nhơn",
+        "kind": "Điểm tham khảo địa danh, KHÔNG phải tọa độ mốc hành chính"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.22,
+          13.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Campuchia (hướng tây)",
+        "kind": "Điểm tham khảo địa danh, KHÔNG phải tọa độ mốc hành chính"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.38,
+          14.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biển Đông (hướng đông)",
+        "kind": "Điểm tham khảo địa danh, KHÔNG phải tọa độ mốc hành chính"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.54,
+          13.82
+        ]
+      }
+    }
+  ]
+}
